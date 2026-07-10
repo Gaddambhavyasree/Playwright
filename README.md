@@ -81,6 +81,9 @@ Generate HTML report
 ```bash
 npx playwright show-report
 ```
+Example Result
+
+<img width="1077" height="647" alt="Screenshot 2026-07-10 114259" src="https://github.com/user-attachments/assets/aa1bf455-cbec-47b3-bea1-da8ef396a82b" />
 
 ---
 
