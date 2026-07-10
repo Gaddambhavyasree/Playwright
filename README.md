@@ -45,7 +45,7 @@ playwright-login-automation/
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Gaddambhavyasree/Playwright.git
 ```
 
 Install dependencies
@@ -74,12 +74,6 @@ Run only the login test
 
 ```bash
 npx playwright test tests/login.spec.js
-```
-
-Run with browser visible
-
-```bash
-npx playwright test --headed
 ```
 
 Generate HTML report
